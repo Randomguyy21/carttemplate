@@ -1,0 +1,182 @@
+#d1{
+    width:85%;
+    margin:0 auto;
+   
+}
+#d2{
+    margin-left: 560px;
+    border:2px solid black;
+    padding: 10px;
+    font-family:"Georgia";
+    background:purple;  
+    width:40%;
+}
+#d2 a{
+    color:black;
+    
+}
+#d2 a:hover{
+    color:blue;
+}
+
+#h1{
+    font-family:"Georgia";
+    text-align: center;
+}
+.h{
+   
+    border: 2px solid black;
+    padding:10px;
+    background:  #00ff80;
+}
+#i1{
+    width:40px;
+    padding-left: 10px;
+    float:left;
+}
+#d3{
+    border:2px solid black;
+    background: rgba(255,255,255,0.5);
+}
+
+.b1{
+    float:left;
+    width:50%;
+    padding-left:10px;
+   
+}
+
+.im{
+    width:200px;
+  
+}
+.im:hover{
+    opacity:0.5;
+}
+.p{
+    float:right;
+    padding-right: 100px;
+    font-family:sans-serif;
+}
+#pt{
+     float:right;
+    padding-right: 120px;
+    font-family:sans-serif;
+}
+.pr{
+    
+    float:right;
+    padding-right: 130px;
+    font-family:sans-serif;
+}
+#h2{
+    font-family:"Georgia";
+    text-align: center;
+}
+.s1{
+    float:left;
+    width:50%;
+    padding-left:10px;
+}
+#d4{
+    border:2px solid black;
+    background: rgba(255,255,255,0.5);
+}
+#f
+{
+    font-family:"Lucida Console";
+    margin-top:10px;
+    background: darkolivegreen;
+    height:30px;
+    padding-top: 5px;
+
+}
+#p1{
+    float:right;
+    padding-right:70px;
+    font-family:sans-serif;
+}
+#p2{
+    float:right;
+    padding-right:80px;
+    font-family:sans-serif;
+}
+#p3{
+    float:right;
+    padding-right:80px;
+    font-family:sans-serif;
+}
+#p4{
+    float:right;
+    padding-right:120px;
+    font-family:sans-serif;
+}
+#b1d1{
+   background: rgba(255,255,255,0.5);
+    height:300px;
+    
+}
+#b1d2{
+    float:right;
+    width: 75%;
+    border:2px solid black;
+    
+}
+#b1p1{
+    padding-left:10px;
+    font-size:20px;
+    font-family:"Georgia";
+}
+#l1{
+   background: rgba(255,255,255,0.5);
+    height:250px;
+    border:2px solid black;
+}
+#l1 #l2{
+  width:50%;
+    padding-top:30px;
+    padding-left:250px;
+    font-family: "Tahoma";
+}
+#s1{
+    width:75%;
+   background: rgba(255,255,255,0.5);
+    padding-left:250px;
+    padding-top: 30px; 
+    height:300px;
+    font-family:"Tahoma";
+    border:2px solid black;
+}
+
+#body{
+    background-color: #b3ffe6;
+}
+#nh1 
+{
+    font-family:"Tahoma";
+    text-align: center;
+}
+#div2
+{
+    padding-left:500px;
+}
+
+student {
+     color: white;
+     background-color : blue;
+     width: 100%;
+}
+ rollno, name, college_name, branch, year, email{
+     display : block;
+}
+ rollno {
+     font-size : 25px;
+     font-weight : bold;
+}
+
+
+
+
+
+
+
